@@ -1,0 +1,6 @@
+[submodule "CoolWeatherAPP"]
+	path = CoolWeatherAPP
+	url = https://github.com/martapg15/DAM_CoolWeatherApp
+[submodule "Kotlin_exercises"]
+	path = Kotlin_exercises
+	url = https://github.com/martapg15/DAM_Kotlin_exercises
