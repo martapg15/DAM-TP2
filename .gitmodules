@@ -4,3 +4,6 @@
 [submodule "Kotlin_exercises"]
 	path = Kotlin_exercises
 	url = https://github.com/martapg15/DAM_Kotlin_exercises
+[submodule "MIP2_V1"]
+	path = MIP2_V1
+	url = https://github.com/martapg15/DAM_MIP2_V1
